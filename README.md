@@ -13,5 +13,5 @@ Player statistics were scraped from Basketball-Reference (https://www.basketball
 ## Reproduction Instructions
 1. Clone the repository.
 2. Run the `analysis_script.R` file to reproduce the graphs.
-3. The results will be saved as `3pointers_distribution.png` and `mp_vs_rebounds.png`.
+3. The results will be saved as `3p_distribution.png` and `mp_vs_rebounds.png`.
 
